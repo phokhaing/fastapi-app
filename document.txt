@@ -1,3 +1,7 @@
 NOTED:
    - pip freeze > requirements.txt : copy all module installed into file requirements
    - pip install -r requirements.txt: install module from file requirements
+
+Docker:
+   - docker-compose up -d : build and run docker container
+   - docker-compose up --build -d : re-build existing container and run docker container
