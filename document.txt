@@ -1,0 +1,3 @@
+NOTED:
+   - pip freeze > requirements.txt : copy all module installed into file requirements
+   - pip install -r requirements.txt: install module from file requirements
